@@ -11,7 +11,12 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 
 https://case-cancelamentos.streamlit.app/
 
+2. **Projeto 2**
+   Case - Cancelamento de Clientes.
 
+   🐍 Python | Pandas | Numpy | Streamlit |Plotly
+
+   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sanregi/Portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/regis-sandes/)
