@@ -15,12 +15,10 @@
 </html>
 
 
+https://github.com/sanregi/previsao-renda/assets/154437495/da9dc052-a582-4ff1-a225-ed16c27efba1
+
+
 3. **Projeto 3**
    Projeto Previsão de Renda
 
    🐍 Python | Streamlit | Pandas | Numpy | matplotlib | Seaborn | Scikit-Learn
-
-
-
-https://github.com/sanregi/previsao-renda/assets/154437495/da9dc052-a582-4ff1-a225-ed16c27efba1
-
