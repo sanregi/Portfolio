@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de portfólio profissional! Aqui você encontrará
 
 ## Sobre Mim
 
-Meu nome é Régis e sou estudante de Ciência de Dados pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. Ainda não possuo experiência profissional no setor 😞, porém tenho paixão por novos desafios e música 🎸, e por isso continuo criando meus projetos e os postando aqui.
+Meu nome é Régis e sou estudante de Ciência de Dados pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. Tenho paixão por novos desafios e música 🎸, e por isso continuo criando meus projetos e os postando aqui.
 Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias para enfrentar desafios e entregar resultados excepcionais.
 
 ## Projetos Destacados
