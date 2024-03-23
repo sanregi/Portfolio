@@ -24,6 +24,11 @@ Busco constantemente aprimorar minhas habilidades e explorar novas tecnologias p
 
    🐍 Python | Streamlit | Pandas | Numpy | matplotlib | Seaborn | Scikit-Learn
 
+4. **Projeto 4**
+   Telemarketing analysis
+
+   🐍 Python | Streamlit | Pandas | Numpy | matplotlib | Seaborn | Pillow
+
 ## Como Contribuir
 
 Se você gostaria de colaborar ou fazer sugestões para algum dos projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a feedback construtivo e novas ideias.
